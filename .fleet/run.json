@@ -1,0 +1,7 @@
+{
+    "configurations": [
+        {"name":"Build CPP",
+        "type":"gcc",
+        "tasks:"[]}
+    ]
+}
